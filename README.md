@@ -1,8 +1,5 @@
 <h1 align="center">Faustino Pelintra</h1>
 <h3 align="center">No processo de ser o tal de engenheiro informático</h3>
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luiscunha13&show_icons=true&locale=en&theme=synthwave" alt="luiscunha13" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiscunha13&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="luiscunha13" /></p>
 <!--
