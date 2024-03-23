@@ -2,6 +2,8 @@
 <h3 align="center">No processo de ser o tal de engenheiro informático</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiscunha13&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="luiscunha13" /></p>
+
+<img src="https://myreadme.vercel.app/api/embed/luiscunha13?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <!--
 **luiscunha13/luiscunha13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
