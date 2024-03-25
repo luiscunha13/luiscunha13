@@ -1,7 +1,6 @@
 <h1 align="center">Faustino Pelintra</h1>
 <h3 align="center">No processo de ser o tal de engenheiro informático</h3>
 
-![snake gif](https://github.com/luiscunha13/luiscunha13/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
